@@ -12,7 +12,7 @@ venv/
 .venv/
 
 # Modelos / datos locales
-*.pth
+#*.pth
 *.pt
 *.joblib
 *.npz
